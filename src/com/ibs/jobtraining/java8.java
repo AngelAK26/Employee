@@ -13,13 +13,11 @@ public static void main(String[] args) {
 
 List<Employee> empList= Arrays.asList(
 
-new Employee("1001", "Alice",102,"active","30000"),
-new Employee("1002", "Raj",101,"inactive","25000"),
-new Employee("1003", "Jewel",102,"active","10000"),
-new Employee("1004", "Mary",103,"inactive","12000"),
-new Employee("1005", "Rose",104,"inactive","22000")
-
-);
+new Employee("101", "Abel",104,"active","22772"),
+new Employee("102", "Alen",101,"inactive","25000"),
+new Employee("103", "Amita",104,"active","30000"),
+new Employee("104", "Lakshmi",103,"inactive","40000"),
+new Employee("105", "Kiran",102,"inactive","19000"));
 
 //program to print employee details in each department
 
